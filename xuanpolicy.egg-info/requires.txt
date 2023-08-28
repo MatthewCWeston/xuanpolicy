@@ -8,7 +8,6 @@ tqdm==4.62.3
 pyglet==1.5.15
 opencv-python==4.5.4.58
 atari-py==0.2.9
-ale-py==0.7.5
 pettingzoo==1.23.0
 tensorboard==2.11.2
 wandb==0.15.3
