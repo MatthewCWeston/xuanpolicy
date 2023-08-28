@@ -54,7 +54,7 @@ setup(
         "pyglet==1.5.15",
         "opencv-python==4.5.4.58",  # for Atari
         "atari-py==0.2.9",
-        "ale-py==0.7.5",
+        # "ale-py==0.7.5", # Appears to cause a compatibility issue; not needed for MPE.
         "pettingzoo==1.23.0",  # for MARL
         "tensorboard==2.11.2",  # logger
         "wandb==0.15.3",
