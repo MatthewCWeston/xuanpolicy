@@ -43,7 +43,7 @@ setup(
         ]
     },
     install_requires=[
-        "numpy==1.21.6",
+        # "numpy==1.21.6",
         "scipy==1.7.3",
         "PyYAML==6.0",
         "gym==0.26.2",
