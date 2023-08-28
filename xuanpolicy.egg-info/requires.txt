@@ -15,6 +15,7 @@ imageio==2.9.0
 
 [all_envs]
 atari-py==0.2.9
+ale-py==0.7.5
 
 [all]
 torch==1.13.0
